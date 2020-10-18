@@ -1,0 +1,8 @@
+.modal-backdrop.show {
+    opacity: .5;
+    z-index: -1!important;
+}
+
+.error{
+	color: red;
+}
